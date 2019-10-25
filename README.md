@@ -25,24 +25,24 @@ MASH Game for Web Design 1 at Northwest Vista College
       <div class="bucket">
         <div class="choice-bucket">
           <h4 class="highlight">Where will you live?</h4>
-          <input name="answer_1[]">
-          <input name="answer_1[]">
-          <input name="answer_1[]">
-          <input name="answer_1[]">
+          <input name="answer_1[]" type="text">
+          <input name="answer_1[]" type="text">
+          <input name="answer_1[]" type="text">
+          <input name="answer_1[]" type="text">
         </div>
         <div class="choice-bucket">
           <h4 class="highlight">What will your future profession be?</h4>
-          <input name="answer_2[]">
-          <input name="answer_2[]">
-          <input name="answer_2[]">
-          <input name="answer_2[]">
+          <input name="answer_2[]" type="text">
+          <input name="answer_2[]" type="text">
+          <input name="answer_2[]" type="text">
+          <input name="answer_2[]" type="text">
         </div>
         <div class="choice-bucket">
           <h4 class="highlight">What pet will you own?</h4>
-          <input name="answer_3[]">
-          <input name="answer_3[]">
-          <input name="answer_3[]">
-          <input name="answer_3[]">
+          <input name="answer_3[]" type"text">
+          <input name="answer_3[]" type"text">
+          <input name="answer_3[]" type"text">
+          <input name="answer_3[]" type"text">
         </div>
       </div>
       <button type="submit" class="button-submit">Tell my fortune</button>

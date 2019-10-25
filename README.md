@@ -31,7 +31,7 @@ MASH Game for Web Design 1 at Northwest Vista College
           <input name="answer_1[]">
         </div>
         <div class="choice-bucket">
-          <h4 class="highlight">Your future profession?</h4>
+          <h4 class="highlight">What will your future profession be?</h4>
           <input name="answer_2[]">
           <input name="answer_2[]">
           <input name="answer_2[]">
